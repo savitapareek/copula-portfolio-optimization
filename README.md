@@ -49,4 +49,4 @@ Each row in the final result corresponds to a rolling window and includes:
 ## Citation
 If you find this repository useful or it contributes to your research, please cite the following paper:
 
-Pareek, S. and Ghosh, S. K. (2025). Semiparametric Dynamic Copula Models for Portfolio Optimization. Preprint available at: https://arxiv.org/abs/2504.12266
+Pareek, S. and Ghosh, S. K. (2025). Semiparametric Dynamic Copula Models using Rolling-window Portfolio Optimization. Preprint available at: https://arxiv.org/abs/2504.12266
